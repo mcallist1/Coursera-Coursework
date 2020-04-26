@@ -1,0 +1,7 @@
+clean
+compile
+runMain funsets.Main
+compile
+run
+submit mcallist@tcd.ie AKGkJuqdzC3oCcU4
+cd ..

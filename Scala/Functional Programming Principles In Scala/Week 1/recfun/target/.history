@@ -1,0 +1,17 @@
+compile
+run
+sbt "submit mcallist@tcd.ie 9KQZIQsipXxQg2Sr"
+run
+submit mcallist@tcd.ie 9KQZIQsipXxQg2Sr
+compile
+run
+submit mcallist@tcd.ie c7JIeRG0iRFBJVas
+compile
+run
+submit mcallist@tcd.ie c7JIeRG0iRFBJVas
+compile
+run
+submit mcallist@tcd.ie c7JIeRG0iRFBJVas
+compile
+run
+submit mcallist@tcd.ie 53aNk5nXzQWM9jLF
